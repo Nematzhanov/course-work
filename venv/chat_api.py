@@ -3,7 +3,7 @@ import requests
 API_URL = "https://api.intelligence.io.solutions/api/v1/chat/completions"
 API_HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6IjI2ZmU1Y2Y3LTI3ZjItNGJiZi1hZjJkLTgwNDQ2NzA2NmM1YSIsImV4cCI6NDkwMjA0MTA1MH0.m5FV39oxlZST1Uwy0yVEDRYcVUtCzaUYgaSofdwGFlBNO4kbgJ8uvR6zOzkNbsYyJ6wCXtH2xYq5gSjGCBI_Xw"
+    "Authorization": "Bearer "
 }
 
 chat_history = [
