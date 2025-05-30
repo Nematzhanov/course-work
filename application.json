@@ -1,0 +1,10 @@
+{
+    "model": "qwen-v1",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Текст запроса"
+      }
+    ]
+  }
+  
